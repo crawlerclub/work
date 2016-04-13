@@ -1,0 +1,13 @@
+hoteltravel	1	预付	预付	预订后，您需要支付全额房费。
+hoteltravel	2	现付	现付	免费预订，入住时付款。
+hoteltravel	3	不可退	不可退	如果取消或更改预订，您将不会获得任何退款。
+hoteltravel	4	不可改	不可改	如果取消或更改预订，您将不会获得任何退款。
+hoteltravel	5	免费退	免费退	如果在info_time取消或更改预订，您将获得全额退款。
+hoteltravel	6	免费改	免费改	如果在info_time取消或更改预订，您将获得全额退款。
+hoteltravel	7	收费退	收费退	如果在info_time（取消或更改）预订，您需要支付info_price。
+hoteltravel	8	收费改	收费改	如果在info_time（取消或更改）预订，您需要支付info_price。
+hoteltravel	9	不可取消或更改	不可取消或更改	如果取消或更改预订，您将不会获得任何退款。
+hoteltravel	10	免费取消或更改	收费取消或更改	如果在info_time取消或更改预订，您将获得全额退款。
+hoteltravel	11	收费取消或更改	收费取消或更改	如果info_time（取消或更改）预订，您需要支付info_price。
+hoteltravel	12	out_time_charge	out_time_charge	如果在info_time取消或更改预订，您需要支付info_price。
+hoteltravel	13	noshow	noshow	如果未如期入住，您需要支付（金额：info_price）。

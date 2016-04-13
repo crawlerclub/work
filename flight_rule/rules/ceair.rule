@@ -1,0 +1,6 @@
+default	NULL	cancel_rule	以航空公司及原网站规定为准。	buzhidao.
+default	NULL	change_rule	以航空公司及原网站规定为准。	buzhidao.
+default	NULL	endorse_rule	NULL	NULL
+default	NULL	miss_rule	NULL	NULL
+default	NULL	package_rule	NULL	NULL
+default	NULL	attached_rule	NULL	NULL

@@ -1,0 +1,15 @@
+pay_now	1	NULL	3	pay_later
+pay_later	1	NULL	2	NULL
+cancel_free	2	NULL	1	cancel_charge
+change_free	2	NULL	1	change_charge
+cancel_change_free	2	cancel_free|change_free	2	cancel_free|change_free|cancel_charge|change_charge|cancel_change_charge
+cancel_charge	2	NULL	1	NULL
+change_charge	2	NULL	1	NULL
+cancel_change_charge	2	cancel_charge|change_charge	2	cancel_charge|change_charge
+cancel_forbid	2	NULL	3	overdue_free|overdue_charge|cancel_free|change_free|cancel_change_free|cancel_charge|change_charge|cancel_charge_charge
+change_forbid	2	NULL	3	overdue_free|overdue_charge|cancel_free|change_free|cancel_change_free|cancel_charge|change_charge|cancel_charge_charge
+cancel_change_forbid	2	cancel_forbid|change_forbid	3	overdue_free|overdue_charge|cancel_free|change_free|cancel_change_free|cancel_charge|change_charge|cancel_charge_charge
+overdue_free	3	NULL	2	NULL
+overdue_charge	3	NULL	2	NULL
+noshow_free	4	NULL	2	NULL
+noshow_charge	4	NULL	3	now_show_free

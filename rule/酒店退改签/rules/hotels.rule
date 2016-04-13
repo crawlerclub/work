@@ -1,0 +1,7 @@
+default	NULL	pay_now	你必须立即付款。	你必须立即付款。
+option	此特别折扣房价不可退款。如果您选择更改或取消此预订，您将不会获得任何退款。	cancel_change_forbid	如果取消或更改预订，您将不会获得任何退款。	如果取消或更改预订，您将不会获得任何退款。
+option	您可在@mioji_key_datetime_6_0_mioji@之前免费取消此预订。	cancel_change_free	如果@mioji_key_datetime_7_0_mioji@之前取消或更改预订，您无需支付任何费用。	如果@mioji_key_datetime_7_0_mioji@之前取消或更改预订，您无需支付任何费用。
+option	在@mioji_key_datetime_6_0_mioji@之前取消或更改订单，对于该预订，不会向您收取任何更改或取消费用。	cancel_change_free	如果@mioji_key_datetime_7_0_mioji@之前取消或更改预订，您无需支付任何费用。	如果@mioji_key_datetime_7_0_mioji@之前取消或更改预订，您无需支付任何费用。
+option	如在上述日期后取消或更改预订，可能需要支付一定费用。	overdue_charge	如果在@mioji_key_datetime_7_0_mioji@之后取消或更改，您可能需要支付一定费用，具体金额以原网站为准。	如果在@mioji_key_datetime_7_0_mioji@之后取消或更改，您可能需要支付一定费用，具体金额以原网站为准。
+option	对于订房后没有入住或提早退房者，我们不予退款。	noshow_charge	如果未入住或提早退房，您将不会获得任何退款。	如果未入住或提早退房，您将不会获得任何退款。
+option	提早退房或没有入住酒店，我们将无法退款。	noshow_charge	如果未入住或提早退房，您将不会获得任何退款。	如果未入住或提早退房，您将不会获得任何退款。

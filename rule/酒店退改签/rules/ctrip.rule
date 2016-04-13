@@ -1,0 +1,16 @@
+option	酒店会进行预先授权	pay_later	免费预订，入住时付款。	免费预订，入住时付款。
+option	我们将立即操作扣款	pay_now	预订后，您需要支付预订的总价。	预订后，您需要支付预订的总价。
+option	@mioji_key_datetime_9_0_mioji@前可免费取消。	cancel_free	如果@mioji_key_datetime_7_0_mioji@之前取消预订，您无需支付任何费用。	如果@mioji_key_datetime_7_0_mioji@之前取消或更改预订，您无需支付任何费用。
+option	如果在[ |]入住日@mioji_key_datetime_11_0_mioji@之前取消预订，住宿方将不收取费用。	cancel_free	如果@mioji_key_datetime_7_0_mioji@之前取消预订，您无需支付任何费用。	如果@mioji_key_datetime_7_0_mioji@之前取消预订，您无需支付任何费用。
+option	如需修改取消订单，请在@mioji_key_datetime_10_0_mioji@(当地时间@mioji_key_datetime_10_1_mioji@)以前通知携程。	cancel_change_free	如果@mioji_key_datetime_1_1_mioji@之前取消或更改预订，您无需支付任何费用。	如果@mioji_key_datetime_1_1_mioji@之前取消或更改预订，您无需支付任何费用。
+option	如果在[ |]入住日@mioji_key_datetime_11_0_mioji@之前取消或更改预订，住宿方将不收取费用。	cancel_change_free	如果@mioji_key_datetime_7_0_mioji@之前取消或更改预订，您无需支付任何费用。	如果@mioji_key_datetime_7_0_mioji@之前取消或更改预订，您无需支付任何费用。
+option	如果在[ |]入住日@mioji_key_datetime_11_0_mioji@之前[取消或更改|取消|更改]预订，住宿方将收取预订第@mioji_key_price_3_0_mioji@。	overdue_charge	如果@mioji_key_datetime_7_0_mioji@之前取消或更改预订，您需要支付@mioji_key_price_4_0_mioji@。	如果@mioji_key_datetime_7_0_mioji@之前取消或更改预订，您需要支付@mioji_key_price_4_0_mioji@。
+option	如果在[ |]入住日@mioji_key_datetime_11_0_mioji@之前[取消或更改|取消|更改]预订，住宿方将收取预订总房价的@mioji_key_price_1_0_mioji@。	overdue_charge	如果@mioji_key_datetime_7_0_mioji@之前取消或更改预订，您需要支付@mioji_key_price_2_0_mioji@。	如果@mioji_key_datetime_7_0_mioji@之前取消或更改预订，您需要支付@mioji_key_price_2_0_mioji@。
+option	如果[未如期入住或|]超出时限，[取消或更改|取消|更改]预订住宿方将收取第@mioji_key_price_3_0_mioji@。	overdue_charge	如果@mioji_key_datetime_12_0_mioji@之后取消或更改预订，您需要支付@mioji_key_price_4_0_mioji@。	如果@mioji_key_datetime_12_0_mioji@之后取消或更改预订，您需要支付@mioji_key_price_4_0_mioji@。
+option	如果[未如期入住或|]超出时限，[取消或更改|取消|更改]预订住宿方将收取预订总房价的@mioji_key_price_1_0_mioji@。	overdue_charge	如果@mioji_key_datetime_12_0_mioji@之后取消或更改预订，您需要支付@mioji_key_price_2_0_mioji@。	如果@mioji_key_datetime_12_0_mioji@之后取消或更改预订，您需要支付@mioji_key_price_2_0_mioji@。
+option	如果[未如期入住或|]超出时限，[取消或更改|取消|更改]预订住宿方将收取预订的总价。	overdue_charge	如果@mioji_key_datetime_12_0_mioji@之后取消或更改预订，您需要支付@mioji_key_price_0_0_mioji@。	如果@mioji_key_datetime_12_0_mioji@之后取消或更改预订，您需要支付@mioji_key_price_0_0_mioji@。
+option	如果未如期入住[或超出时限|]，[取消或更改预订|取消预订|更改预订|][，|]住宿方将收取第@mioji_key_price_3_0_mioji@。	noshow_charge	如果未如期入住，您需要支付@mioji_key_price_4_0_mioji@。	如果未如期入住，您需要支付@mioji_key_price_4_0_mioji@。
+option	如果未如期入住[或超出时限|]，[取消或更改预订|取消预订|更改预订|][，|]住宿方将收取预订总房价的@mioji_key_price_1_0_mioji@。	noshow_charge	如果未如期入住，您需要支付@mioji_key_price_2_0_mioji@。	如果未如期入住，您需要支付@mioji_key_price_2_0_mioji@。
+option	如果未如期入住[或超出时限|]，[取消或更改预订|取消预订|更改预订|][，|]住宿方将收取预订的总价。	noshow_charge	如果如果未如期入住，您需要支付@mioji_key_price_0_0_mioji@。	如果如果未如期入住，您需要支付@mioji_key_price_0_0_mioji@。
+nouse	此政策最终以订单提交为准	NULL	NULL	NULL
+nouse	@mioji_any_4_40_mioji@_。	NULL	NULL	NULL

@@ -1,0 +1,6 @@
+change_rule	1	NULL	2	NULL	改签规则	Change rules
+cancel_rule	2	NULL	2	NULL	退票规则	Refund rules
+endorsement_rule	3	NULL	2	NULL	签转规则	endorsement rules
+miss_rule	4	NULL	2	NULL	误机规则	Missed flight rules
+package_rule	5	NULL	2	NULL	行李规定	Package
+attached_rule	6	NULL	2	NULL	附加条款	Attached rules
